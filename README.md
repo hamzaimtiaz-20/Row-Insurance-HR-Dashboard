@@ -1,5 +1,5 @@
 # Row-Insurance-HR-Dashboard
-### This project aims to provide a data-driven dashboard that delivers valuable insights and informs evidence-based recommendations for the company's human resources practices. The dashboard should be divided into three main sections: Overview, Demographics, and Income Analysis.
+### This project aims to provide a data-driven dashboard that delivers valuable insights and informs evidence-based recommendations for the company's human resources practices. Per project specifications, the dashboard features three main components: Overview, Demographics, and Income Analysis.
 
 Row Insurance is a fictional insurance company based in the United States.
 
@@ -30,12 +30,12 @@ The dataset simulates a set of employee information typically found in HR system
 - Finance Managers and IT Managers appear to earn the highest salaries (up to $120k), while roles like HR Assistants are at the lower end of the salary spectrum (around $60k).
 
 ## Recommendations
-- Focus on Retention in Key Departments: Insight: Implement targeted retention programs for high-termination departments like Sales and IT. Exit interviews and employee satisfaction surveys should be utilized to understand why employees leave, allowing for targeted improvements in working conditions, benefits, or career development opportunities.
+- Focus on Retention in Key Departments: Implement targeted retention programs for high-termination departments like Sales and IT. Exit interviews and employee satisfaction surveys should be utilized to understand why employees leave, allowing for targeted improvements in working conditions, benefits, or career development opportunities.
 - Leverage the Education-Performance Relationship: Invest in education and professional development programs for employees to encourage them to pursue higher education. Providing tuition reimbursement or skill development incentives could further boost performance, leading to better organizational outcomes.
 - Expand Branch Locations Strategically: Consider expanding the number of branch offices to enhance regional presence, potentially improving market penetration and customer service in underrepresented regions. This could also alleviate pressure on the HQ by distributing workload more evenly across locations.
 
 ## Dashboard
-The dashboard can be found publicly [here](https://prod-ca-a.online.tableau.com/t/hamzaimtiaz20-4ec96290c3/views/RowInsuranceHRSummaryDashboard/HRSummary). This dashboard includes dynamic visualizations which allows users to click to filter.
+The dashboard can be found publicly [here](https://prod-ca-a.online.tableau.com/t/hamzaimtiaz20-4ec96290c3/views/RowInsuranceHRSummaryDashboard/HRSummary). It can also be downloaded from the repository files. This dashboard includes dynamic visualizations which allows users to click to filter.
 
 ![final dashboard zoom](https://github.com/user-attachments/assets/98b74f6c-65cb-43b4-b3fc-5b3eb9d512c3)
 
